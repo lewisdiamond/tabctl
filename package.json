@@ -1,0 +1,13 @@
+{
+  "name": "tabctl-extension",
+  "version": "0.1.0",
+  "description": "Browser extension for controlling tabs via tabctl",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/chrome": "^0.0.260"
+  }
+}
